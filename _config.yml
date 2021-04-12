@@ -2,8 +2,8 @@
 title: Feng Chao's Blog
 SEOTitle: 冯超的博客
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
+email: fengcava@gmail.com
+description: "Knowledge is a treasure, but practice is the key to it."
 keyword: "FengChao, 冯超, Machine Learning"
 url: "http://fengc1999.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -17,7 +17,7 @@ sidebar-avatar: https://z3.ax1x.com/2021/04/12/cDV9Tx.jpg      # use absolute UR
 
 
 # SNS settings
-RSS: false
+RSS: true
 # weibo_username:     qiubaiying
 github_username:    fengc1999
 #twitter_username:   qiubaiying
