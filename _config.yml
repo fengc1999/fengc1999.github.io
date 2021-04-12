@@ -113,7 +113,7 @@ sharing:
   addthis:
     id: # AddThis pubid, e.g. ra-5xxxxxxxxxxx
 
-
+disqus_username: fengc1999
 ## => Comments
 ##############################
 comments:
