@@ -1,13 +1,19 @@
-# lindexi
+Typecho Blogging Platform
+=========================
 
-林德熙
+Typecho is a PHP Blogging Platform. Simple and Powerful.
 
-Windows Development MVP
+#### Telegram Channel
+https://t.me/typechodev
 
-微软最具价值专家
+#### Homepage
+http://typecho.org/
 
-Blog: [https://blog.lindexi.com/](https://blog.lindexi.com/)  
-CSDN: [https://lindexi.blog.csdn.net/](https://lindexi.blog.csdn.net/)
+#### Documents
+http://docs.typecho.org/
 
+#### Community
+http://forum.typecho.org/
 
-![](https://github-readme-stats.vercel.app/api?username=lindexi&show_icons=true)
+#### Download
+http://typecho.org/download
