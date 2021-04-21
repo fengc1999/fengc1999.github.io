@@ -1,3 +1,14 @@
+<head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+    </script>
+</head>
 ---
 layout:     post
 title:      线性代数的本质学习笔记
@@ -21,16 +32,20 @@ $$m_1\vec{x_1}+m_2\vec{x_2}+\cdot\cdot\cdot+m_n\vec{x_n}$$
 
 # 二、矩阵
 * 对矩阵的理解：
+
 一个矩阵对应一种线性变化，一种线性变化对应一个矩阵（矩阵是计算形式，线性变化是物理解释）。线性变化的本质是线性函数，满足数乘和加法运算，对向量的变化实际上是对基的变化，所以**矩阵是线性变化后的基构成的列向量组**，右乘的向量是线性组合系数。
 > 线性变化：保持网格平行且等距分布的变化
 
 * 矩阵相乘
+
 需要从右往左理解，即依次进行线性变化，自然矩阵乘法满足结合律。
 
 * 逆矩阵
+
 即与原矩阵线性变化相反的线性变化对应的矩阵。非方阵不存在逆矩阵，因为非方阵对应升降维，降维会丢失信息，不可能找到互逆的升维操作。
 
 * 非方阵
+
 多一个升降维的变化，比如$1\times2$的矩阵即把二维空间的某个方向的平行线压缩成一个个的点。
 
 # 三、行列式
