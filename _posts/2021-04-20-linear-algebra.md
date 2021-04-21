@@ -1,14 +1,3 @@
-<head>
-    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-    <script type="text/x-mathjax-config">
-        MathJax.Hub.Config({
-            tex2jax: {
-            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-            inlineMath: [['$','$']]
-            }
-        });
-    </script>
-</head>
 ---
 layout:     post
 title:      线性代数的本质学习笔记
@@ -20,6 +9,7 @@ catalog: 	true
 tags:
     - 线性代数
 ---
+
 # 一、向量
 * 向量可以是列表，箭头等多种具体形式，也可以是函数这种抽象形式。线性代数中更愿意解释向量为起点固定在原点，终点表示的点，有利于几何层次上进行理解。
 * 向量空间：数学家将符合以下八条性质的事物的集合统一称为向量空间，可以简单理解为符合数乘和相加的运算原则。
