@@ -114,5 +114,5 @@ $\vec{a}\times\vec{b}$叉积的结果是一个向量，垂直于$\vec{a}$和$\ve
 可以由原矩阵得到特征基，利用基转换得到对角矩阵，求幂运算会大大降低。
 
 ## 参考资料
-[3Blue1Brown线性代数教学合集](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-[bilibili熟肉翻译](https://www.bilibili.com/video/BV1ys411472E)
+1. [3Blue1Brown线性代数教学合集](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+2. [bilibili熟肉翻译](https://www.bilibili.com/video/BV1ys411472E)
